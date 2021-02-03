@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Harshith V",
+    "occupation": "",
+    "description": "I survive to Clone the world...",
+    "image": "profilepic.jpg",
+    "bio": "Hello world!, I'm just a teenager who loves coding... I study in 9th grade here at Banglore",
+    "contactmessage": "Get in touch with me to be know me better!",
+    "email": "harshithv25@gmail.com",
+    "phone": "+11 1011010101",
+    "address": {
+      "street": "123 Mern Stack",
+      "city": "React Native",
+      "state": "Flutter",
+      "zip": "XDI LOL"
+    },
+    "website": "/",
+    "resumedownload": "/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCsqbM7nmrPEBYoUvrdWxr0A",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/harshith-v-04a6691b7/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/HARSHITHV25",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some prestine skills I know",
+    "education": [
+      {
+        "school": "SJV, grade 9",
+        "degree": "None",
+        "graduated": "July 2016",
+        "description": "I just want lead my life the way it leads me...."
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "100%",
+        "color": "#ff0000"
+      },
+      {
+        "name": "MERN Stack",
+        "level": "100%",
+        "color": "#ff0000"
+      },
+      {
+        "name": "Flutter",
+        "level": "95%",
+        "color": "#ff6700"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%",
+        "color": "#ff6700"
+      },
+      {
+        "name": "Git",
+        "level": "90%",
+        "color": "#ffa700"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%",
+        "color": "#ffa700"
+      },
+      {
+        "name": "Python",
+        "level": "85%",
+        "color": "#ffdb00"
+      },
+      {
+        "name": "React Navtive",
+        "level": "80%",
+        "color": "#d8bb08"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Spotify",
+        "category": "",
+        "image": "spotify.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Discord",
+        "category": "",
+        "image": "discord.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Amazon",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Netflix (Not full version)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Google",
+        "category": "",
+        "image": "google.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Whatsapp",
+        "category": "",
+        "image": "chatter.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Covid-tracker",
+        "category": "",
+        "image": "covid_tracker.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
